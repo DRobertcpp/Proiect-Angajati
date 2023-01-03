@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Robert\source\repos\Proiect Angajati\Proiect Angajati\Source.cpp(39): warning C4172: returning address of local variable or temporary: functia
+C:\Users\Robert\source\repos\Proiect Angajati\Proiect Angajati\Source.cpp(72): warning C4172: returning address of local variable or temporary: functia
+C:\Users\Robert\source\repos\Proiect Angajati\Proiect Angajati\Source.cpp(128): warning C4172: returning address of local variable or temporary: functia
+C:\Users\Robert\source\repos\Proiect Angajati\Proiect Angajati\Source.cpp(161): warning C4172: returning address of local variable or temporary: functia
+  Proiect Angajati.vcxproj -> C:\Users\Robert\source\repos\Proiect Angajati\Debug\Proiect Angajati.exe
